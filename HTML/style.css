@@ -1,0 +1,28 @@
+#p1 {
+    background-color: pink;
+    color: white;
+}
+li{
+    color:aqua;
+}
+body{
+    background-color: bisque;
+}
+p{
+    color: blue;
+}
+form {
+    margin: 10px;
+}
+#li1 {
+    color: blue;
+}
+#list1 {
+    text-transform: uppercase;
+    font: bold;
+}
+#p2{
+    background-color: lightblue;
+    padding: 10px;
+    
+}

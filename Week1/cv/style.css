@@ -1,0 +1,23 @@
+#divborder{
+    border: 5px solid red;
+}
+#divtop{
+    border: 5px solid red;
+    flex-direction: row;
+    display:flex;
+}
+#divbottom{
+    border: 5px solid red;
+}
+#divright{
+    
+align-content: flex-end;
+}
+#divleft{
+    border: 5px solid red;
+}
+img{
+    width:150px;
+    height:200px;
+}
+

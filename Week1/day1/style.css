@@ -1,0 +1,9 @@
+#catTitle{
+    text-align: center;
+}
+img{
+    border: 5px solid salmon;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
